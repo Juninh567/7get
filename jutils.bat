@@ -14,7 +14,7 @@ exit
 cmd /k
 exit
 :get
-jutils/wget %2
+wget %2
 cmd /k
 exit
 :regedit
