@@ -1,0 +1,2 @@
+slmgr -ato
+exit
